@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blocks {
+    background-color: blueviolet;
+}
+
+.highlight {
+    background-color: brown;
+}
