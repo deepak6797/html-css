@@ -1,0 +1,20 @@
+input[type = "text"] {
+    color: green;
+    background-color: bisque;
+}
+
+input[type = "password"] {
+    background-color: brown;
+}
+
+a[href *= "google"]{
+    color: blueviolet;
+}
+
+a[href ^= "https"] {
+    color: red;
+}
+
+a[href = "https"] {
+    color: green
+}
