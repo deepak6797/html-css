@@ -1,0 +1,31 @@
+header {
+    background-color: bisque;
+}
+
+header p {
+    color: red;
+}
+
+section.my-articles{
+    background-color: aqua;
+}
+
+li a {
+    color: pink;
+}
+
+/* section.my-articles h2 {
+    color: green;
+} */
+
+section.my-articles > h2 {
+    color: darkblue;
+}
+
+h2+p {
+    color: orchid;
+}
+
+ul+p {
+    color: blueviolet;
+}
