@@ -1,0 +1,17 @@
+/* inline style> id > class > element selector */
+
+h1 {
+    color: red;
+}
+
+.h1class {
+    color: green;
+}
+
+#h1id {
+    color: pink;
+}
+
+.tclass {
+    color: blue;
+}
