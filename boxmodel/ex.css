@@ -1,0 +1,19 @@
+/* body {
+    text-align: center;
+} */
+header {
+    background-color: aqua;
+    text-align: center;
+    border: 4px solid gray;
+    /* margin-bottom: 10px; */
+    margin: 20px 100px;
+    padding: 10px;
+}
+
+article {
+    background-color: green;
+    border: 4px solid gray;
+    /* margin-bottom: 10px; */
+    margin: 20px 100px;
+    padding: 10px;
+}
