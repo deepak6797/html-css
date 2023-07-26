@@ -1,0 +1,14 @@
+.box1, .box2 {
+    border: 2px black solid;
+    padding: 20px;
+}
+
+.box1 {
+    margin-bottom: 20px;
+}
+
+.box2 {
+    margin-top: 40px;
+}
+
+/* margin with greater value is counted not less one  */
