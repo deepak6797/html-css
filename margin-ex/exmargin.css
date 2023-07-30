@@ -1,0 +1,17 @@
+body {
+    padding: 100px;
+}
+
+li {
+    display: inline;
+    color: red;
+}
+
+nav {
+    padding: 10px;
+    text-align: center;
+    background-color: slategray;
+    margin-bottom: 50px;
+}
+
+
